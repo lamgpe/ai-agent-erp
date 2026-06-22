@@ -196,7 +196,7 @@ go run main.go
 ## 相关文档
 
 - [AI智能体ERP场景案例_技术总结.md](./AI智能体ERP场景案例_技术总结.md) — 架构设计详解
-- [Palantir模式Agent平台_总结PPT.md](./Palantir模式Agent平台_总结PPT.md) — Palantir 模式设计
+- [Palantir模式Agent平台_总结.md](./Palantir模式Agent平台_总结.md) — Palantir 模式设计
 
 ---
 
