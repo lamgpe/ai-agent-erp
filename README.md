@@ -68,7 +68,7 @@ export BOLT_DB_PATH="./data/erp_graph.db"
 
 ```bash
 # 克隆项目
-git clone https://github.com/lamgpe/ai-agent-erp-.git
+git clone https://github.com/lamgpe/ai-agent-erp.git
 cd ai-agent-erp-
 
 # 安装依赖
