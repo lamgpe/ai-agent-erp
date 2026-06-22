@@ -1,0 +1,13 @@
+# Binary
+erp-agent
+
+# Data
+data/
+*.db
+
+# IDE
+.idea/
+.DS_Store
+
+# Temp
+/tmp/
