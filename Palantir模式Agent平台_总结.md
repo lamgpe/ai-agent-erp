@@ -1,5 +1,5 @@
 # Palantir模式Agent平台(ERP方向)
-## 中宏联ERP智能体 — 技术方案总结
+## ERP智能体 — 技术方案总结
 
 ---
 
@@ -283,5 +283,5 @@
 
 ---
 
-*中宏联ERP智能体 v2.0 | Palantir模式Agent平台(ERP方向)*
+*ERP智能体 v2.0 | Palantir模式Agent平台(ERP方向)*
 *生成时间：2026年6月*
