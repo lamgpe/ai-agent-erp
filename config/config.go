@@ -26,7 +26,7 @@ type Config struct {
 // DefaultConfig 返回默认配置（优先从环境变量读取）
 func DefaultConfig() *Config {
 	return &Config{
-		LLMAPIKey:      getEnv("LLM_API_KEY", "sk-89fde58dcf244d5d84ef119f899935aa"),
+		LLMAPIKey:      getEnv("LLM_API_KEY", ""),
 		LLMBaseURL:     getEnv("LLM_BASE_URL", "https://api.deepseek.com"),
 		LLMModel:       getEnv("LLM_MODEL", "deepseek-chat"),
 		EmbeddingModel: getEnv("EMBEDDING_MODEL", "text-embedding-v3"),
